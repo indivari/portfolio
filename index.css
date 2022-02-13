@@ -40,7 +40,7 @@
   border-radius: 10px;
 }
 
-.about-content {
+.about-greeting {
   color: white;
   font-size: 60px;
   margin-left: 50px;
@@ -56,4 +56,16 @@
   top: 50px;
   left: 50px;
   border-radius: 10px;
+}
+
+.about-content {
+  color: white;
+  font-weight: bold;
+  font-family: "IBM Plex Sans Thai Looped", sans-serif;
+  font-family: "Quicksand", sans-serif;
+  position: absolute;
+  right: 150px;
+  top: 150px;
+  font-size: 30px;
+  text-align: center;
 }
